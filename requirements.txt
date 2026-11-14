@@ -1,0 +1,6 @@
+ortools
+pandas
+openpyxl
+fastapi
+uvicorn
+pytest
